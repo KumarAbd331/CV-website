@@ -5,7 +5,7 @@ This is my personal CV website built using HTML and CSS.
 - CSS3 (Flexbox)
 
 ## Live Website
-https://your-vercel-link.vercel.app
+https://cv-website-iota-ten.vercel.app/
 
 ## GitHub Repository
 https://github.com/KumarAbd331/CV-website
